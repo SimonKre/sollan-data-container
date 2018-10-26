@@ -1,6 +1,5 @@
 package com.skrezelok.sollan;
 
-
 import java.util.ArrayList;
 import java.util.Collection;
 
